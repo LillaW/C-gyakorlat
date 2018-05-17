@@ -39,3 +39,5 @@ Szamok/Szamok/Debug/Szamok.log
 *.tlog
 *.idb
 *.pdb
+*.log
+*.ilk
