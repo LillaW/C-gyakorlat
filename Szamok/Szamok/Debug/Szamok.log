@@ -1,3 +1,9 @@
-﻿  stdafx.cpp
-  Szamok.cpp
-  Szamok.vcxproj -> D:\Documents\GitHub\C-gyakorlat\Szamok\Debug\Szamok.exe
+﻿  Szamok.cpp
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(10): error C2143: syntax error: missing ';' before 'std::cout'
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(10): error C2143: syntax error: missing ';' before '<<'
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(10): error C2371: 'std::cout': redefinition; different basic types
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\iostream(28): note: see declaration of 'std::cout'
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(11): error C2059: syntax error: 'return'
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(12): error C2059: syntax error: '}'
+d:\documents\github\c-gyakorlat\szamok\szamok\szamok.cpp(12): error C2143: syntax error: missing ';' before '}'

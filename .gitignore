@@ -1,3 +1,7 @@
+# Visual Studio
+Szamok/.vs/*
+
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,8 @@
 *.exe
 *.out
 *.app
+Szamok/.vs/Szamok/v15/.suo
+Szamok/Szamok/Debug/Szamok.log
+*.tlog
+*.idb
+*.pdb
